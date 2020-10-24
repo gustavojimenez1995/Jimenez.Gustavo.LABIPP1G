@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1603424768 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"datosHarcodeo.h"
+	"notebooks.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"validacionesHerramientas.h"
+
+1603415733 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\datosharcodeo.h
+
+1603424768 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603426258 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\notebooks.h
+	"marcas.h"
+	"tipos.h"
+
+1603426258 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\marcas.h
+
+1603426258 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\tipos.h
+
+1603333415 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\validacionesherramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1603426258 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"validacionesHerramientas.h"
+	"marcas.h"
+	"notebooks.h"
+	"tipos.h"
+
+1603426558 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\validacionesherramientas.h
+
+1603424768 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"marcas.h"
+
+1603426258 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\servicios.h
+
+1603424768 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1603424768 c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\trabajos.h
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"notebooks.h"
+
+1603424768 source:c:\users\a.g.j.c\desktop\utn\programacion\jimenez_gustavo_labipp1g\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"notebooks.h"
+	"servicios.h"
+	"validacionesHerramientas.h"
+
+1603501437 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"datosHarcodeo.h"
+	"notebooks.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"validacionesHerramientas.h"
+	"cliente.h"
+
+1603491287 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\datosharcodeo.h
+
+1603501999 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\notebooks.h
+	"marcas.h"
+	"tipos.h"
+	"cliente.h"
+
+1603426258 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\marcas.h
+
+1603426258 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\tipos.h
+
+1603426258 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\servicios.h
+
+1603493058 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\trabajos.h
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"notebooks.h"
+
+1603426558 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\validacionesherramientas.h
+
+1603426689 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"marcas.h"
+
+1603501954 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"validacionesHerramientas.h"
+	"marcas.h"
+	"notebooks.h"
+	"tipos.h"
+	"cliente.h"
+
+1603426689 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+
+1603426689 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+
+1603493035 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"notebooks.h"
+	"servicios.h"
+	"validacionesHerramientas.h"
+	"cliente.h"
+
+1603426689 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\validacionesherramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1603500842 source:c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+	"validacionesHerramientas.h"
+
+1603500727 c:\users\a.g.j.c\desktop\parcial\jimenez_gustavo_labipp1g\cliente.h
+
